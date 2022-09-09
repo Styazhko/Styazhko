@@ -4,6 +4,5 @@
 
 <p align="center">
   
-![codewars](https://www.codewars.com/users/m_oonlight/badges/large) 
-  
+![codewars](https://www.codewars.com/users/m_oonlight/badges/large)  
 </p>
