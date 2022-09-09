@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Python backend-developer</h3> 
 
-[![codewars](https://www.codewars.com/users/m_oonlight/badges/large)](https://www.codewars.com/users/m_oonlight)
+[![codewars](https://www.codewars.com/users/m_oonlight/badges/small)](https://www.codewars.com/users/m_oonlight)
